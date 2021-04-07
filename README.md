@@ -1,4 +1,7 @@
 ### Hi there and welcome to my Github page 👋
+ 
+I am Barry Guess
+---
 
 <!--
 **buz1978-2/buz1978-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
